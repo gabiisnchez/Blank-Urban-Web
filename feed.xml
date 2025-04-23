@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blank Urban</title>
+    <link>https://gabiisnchez.github.io/Blank-Urban-Web/index.html</link>
+    <description>Novedades y actualizaciones de productos, promociones especiales y noticias de la tienda.</description>
+    <item>
+      <title>Nuevo Drop - Blank Urban</title>
+      <link>https://gabiisnchez.github.io/Blank-Urban-Web/html/services.html</link>
+      <description>Conoce nuestro nuevo drop de camisetas minimalistas: versátiles, cómodas y con estilo para destacar en cualquier ocasión.</description>
+    </item>
+    <item>
+        <title>Nueva Oferta - Blank Urban</title>
+        <link>https://gabiisnchez.github.io/Blank-Urban-Web/index.html</link>
+        <description>Ven a conocer nuestro nuevo producto destacado. Ahora con un 25% de descuento.</description>
+      </item>
+  </channel>
+</rss>
